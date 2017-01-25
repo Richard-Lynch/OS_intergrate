@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "command": "gcc",
     "isShellCommand": true,
-    "args": ["-g", "Wall", "-o", "main", "main.c"],
+    "args": ["-g", "-Wall", "-o", "main", "main.c"],
     "showOutput": "always"
 }
